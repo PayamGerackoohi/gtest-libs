@@ -3,3 +3,6 @@ A convenient library builder out of the [gtest](https://github.com/google/google
 
 ## Inspired by
 [Modern Cpp Template](https://github.com/filipdutescu/modern-cpp-template)
+
+## Sample
+- [Binary Conversion](https://github.com/PayamGerackoohi/binary-conversion)
